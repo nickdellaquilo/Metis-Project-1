@@ -14,7 +14,8 @@ In addition to submitting this plan, you may discuss the areas below with an ins
 * Who benefits from exploring this question or building this model/system?
 
 #### Data Description:
-* What dataset(s) do you plan to use, and how will you obtain the data?
+* What dataset(s) do you plan to use, and how will you obtain the data?  
+> This project will use the publically available MTA Turnstile data located at http://web.mta.info/developers/turnstile.html.
 * What is an individual sample/unit of analysis in this project? What characteristics/features do you expect to work with? 
 * If modeling, what will you predict as your target?
 
