@@ -1,6 +1,6 @@
 # Metis Project 1: MTA Data
 
-### Project Proposal Template
+## Project Proposal Template
 
 Before you start project work for a course, you **should be able to complete the following proposal template**, addressing the questions listed as completely as possible. 
 However, keep in mind that throughout the design iterations of your project, many parts of it will likely change 
