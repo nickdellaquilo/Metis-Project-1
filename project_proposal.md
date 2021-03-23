@@ -16,7 +16,7 @@ How has use of the MTA changed in the last year compared to the previous year, a
 
 * Who benefits from exploring this question or building this model/system?
 
-Both NYC Health and the MTA can use this data to see when to expect Covid-19 cases and MTA usage, respectively, may change in the near future.
+Both NYC Health and the MTA can use this data in the event of a pandemic in the future, to see when new cases and MTA usage may change based on each other.
 
 #### Data Description:
 * What dataset(s) do you plan to use, and how will you obtain the data?
