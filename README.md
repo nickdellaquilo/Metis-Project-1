@@ -18,6 +18,8 @@ In addition to submitting this plan, you may discuss the areas below with an ins
 
 This project will use the publically available MTA Turnstile data located at http://web.mta.info/developers/turnstile.html.
 
+May also use public nychealth Coronavirus data found at https://github.com/nychealth/coronavirus-data/.
+
 * What is an individual sample/unit of analysis in this project? What characteristics/features do you expect to work with? 
 
 
