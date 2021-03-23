@@ -1,4 +1,4 @@
-# Metis_Project_1
+# Metis Project 1: MTA Data
 
 ### Project Proposal Template
 
