@@ -17,3 +17,4 @@ The MTA turnstile data contains cumulative entries and exits from each turnstile
 
 ## Communication
 I have provided a [slidehow](https://github.com/nickdellaquilo/Metis-Project-1/blob/main/mta_slides.pdf) to present my findings.
+![image](https://user-images.githubusercontent.com/22899761/113425044-2c76d300-939f-11eb-815f-a1d208f41e26.png)
