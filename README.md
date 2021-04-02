@@ -8,6 +8,6 @@
 
 ## [Project Writeup](https://github.com/nickdellaquilo/Metis-Project-1/blob/main/project_writeup.md)
 
-## [Project Slides]
+## [Project Slides](https://github.com/nickdellaquilo/Metis-Project-1/blob/main/mta_slides.pdf)
 
 ## [Code](https://github.com/nickdellaquilo/Metis-Project-1/blob/main/EDA%20Code.ipynb)
